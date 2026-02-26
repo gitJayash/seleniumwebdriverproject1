@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc8fdaf8-f0e5-4f28-8114-4744fd515a69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day46/OrangeHRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day46/OrangeHRM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +22,22 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gitJayash"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gitJayash&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gitJayash/seleniumwebdriverproject1.git",
-    "accountId": "f8cb26c2-fd90-4b02-a3eb-5616201867cb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gitJayash/seleniumwebdriverproject1.git&quot;,
+    &quot;accountId&quot;: &quot;f8cb26c2-fd90-4b02-a3eb-5616201867cb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39tewPAKJnqJ1uT05cKfGjJsJit" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,11 +54,12 @@
     "TestNG.OrangeHRM (1).executor": "Run",
     "TestNG.OrangeHRM.executor": "Run",
     "TestNG.OrangeHRM.testAppURL.executor": "Run",
+    "TestNG.OrangeHRM.testLogo.executor": "Run",
     "TestNG.ParallelTest (1).executor": "Run",
-    "git-widget-placeholder": "SelWebProjectSession-46"
+    "git-widget-placeholder": "SelWebProjectSession-46-2"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.OrangeHRM.testAppURL">
+  <component name="RunManager" selected="TestNG.OrangeHRM">
     <configuration name="C:/Automation Projects/seleniumwebdriverProject1/src/test/java/day45/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumwebdriverProject1" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/day45/testng.xml" />
@@ -121,17 +122,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OrangeHRM.testLogo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumwebdriverProject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day45.*" />
+          <option name="PATTERN" value="day46.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day45" />
-      <option name="MAIN_CLASS_NAME" value="day45.ParallelTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="day46" />
+      <option name="MAIN_CLASS_NAME" value="day46.OrangeHRM" />
+      <option name="METHOD_NAME" value="testLogo" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.OrangeHRM.testAppURL" />
-        <item itemvalue="TestNG.OrangeHRM (1)" />
         <item itemvalue="TestNG.OrangeHRM" />
+        <item itemvalue="TestNG.OrangeHRM.testAppURL" />
         <item itemvalue="TestNG.C:/Automation Projects/seleniumwebdriverProject1/src/test/java/day45/testng.xml" />
-        <item itemvalue="TestNG.ParallelTest (1)" />
+        <item itemvalue="TestNG.OrangeHRM.testLogo" />
+        <item itemvalue="TestNG.OrangeHRM (1)" />
       </list>
     </recent_temporary>
   </component>
