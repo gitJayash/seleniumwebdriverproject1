@@ -35,9 +35,12 @@ public class OrangeHRM {
 
     @Test(priority = 2)
 
-    void testAppURL()
+    void testAppUrl()
     {
-        Assert.assertEquals(driver.getCurrentUrl(),"https://opensource-demo.orangehrmlive.com/");
+        String currentUrl = driver.getCurrentUrl();
+        Assert.assertEquals(currentUrl, "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+
+       // Assert.assertEquals(driver.getCurrentUrl(),"https://opensource-demo.orangehrmlive.com/");
 
     }
 
